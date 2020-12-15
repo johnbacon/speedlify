@@ -2,7 +2,7 @@ module.exports = {
 	name: "GigSalad", // optional, falls back to object key
 	description: "GigSalad.com pages",
 	options: {
-		frequency: 60 * 6, // (in minutes), 6 hours
+		frequency: 60 * 48, // (in minutes), 48 hours
 		// Use "run" if the sites don’t share assets on the same origin
 		//           and we can reset chrome with each run instead of
 		//           each site in every run (it’s faster)
