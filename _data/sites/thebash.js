@@ -10,7 +10,7 @@ module.exports = {
 		freshChrome: "site",
 	},
 	urls: [
-		"https://www.thebash.com/",
+		"https://www.thebash.com",
 		"https://www.thebash.com/search/39577598",
 		"https://www.thebash.com/singer-guitarist/austin-ellis",
 		"https://www.thebash.com/requestquote-b?memberId=148880"

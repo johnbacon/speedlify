@@ -10,7 +10,7 @@ module.exports = {
 		freshChrome: "site",
 	},
 	urls: [
-		"https://www.thumbtack.com/",
+		"https://www.thumbtack.com",
 		"https://www.thumbtack.com/k/mariachi-band-for-hire/near-me/",
 		"https://www.thumbtack.com/instant-results/?keyword_pk=175640358713510842&zip_code=11211&project_pk=401909051966242822",
 		"https://www.thumbtack.com/ny/brooklyn/piano-lessons-for-kids/noah-rott-music/service/376620346460028933"
