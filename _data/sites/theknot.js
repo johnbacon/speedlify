@@ -10,7 +10,7 @@ module.exports = {
 		freshChrome: "site",
 	},
 	urls: [
-		"https://www.theknot.com",
+		"https://www.theknot.com/",
 		"https://www.theknot.com/marketplace/live-wedding-bands-brooklyn-ny?sort=featured",
 		"https://www.theknot.com/marketplace/mod-society-brooklyn-ny-628581"
 	]

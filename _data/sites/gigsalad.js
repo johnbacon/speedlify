@@ -10,7 +10,7 @@ module.exports = {
 		freshChrome: "site",
 	},
 	urls: [
-		"https://www.gigsalad.com",
+		"https://www.gigsalad.com/",
 		"https://www.gigsalad.com/quick-quote",
 		"https://www.gigsalad.com/Music-Groups/Mariachi-Band/NY/Brooklyn",
 		"https://www.gigsalad.com/austin_ellis_annapolis",
