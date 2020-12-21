@@ -6,7 +6,7 @@ const fetch = require("node-fetch");
 const fastglob = require("fast-glob");
 const PerfLeaderboard = require("performance-leaderboard");
 
-const NUMBER_OF_RUNS = 7;
+const NUMBER_OF_RUNS = 5;
 const FREQUENCY = 60; // in minutes
 const NETLIFY_MAX_LIMIT = 45; // in minutes, netlify limit – modified, was 15
 const ESTIMATED_MAX_TIME_PER_TEST = 0.75; // in minutes, estimate based on looking at past builds
